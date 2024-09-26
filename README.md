@@ -1,4 +1,4 @@
-# Eliaslopes247
+# Elias lopes
 # 💫 About Me:
 Hello! I’m an aspiring software engineer currently diving into the worlds of React.js and Node.js. I have a passion for creating websites and developing games that engage and inspire users. As a proud Honors Computer Science student at NCAT, I’m actively involved in organizations like NESBE, ACM, and SHPE, where I embrace leadership opportunities and foster collaboration among peers. Outside of coding, you can often find me on the pickleball court, honing my skills and enjoying friendly competition. With a curious mind and a love for problem-solving, I’m excited to continue my journey in tech and explore new possibilities!
 
